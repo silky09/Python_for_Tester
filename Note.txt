@@ -1,0 +1,6 @@
+1. to run pytest in the terminal, use 
+""" python -m pytest file name
+
+2. in vscode terminal, use 
+""" pytest file name
+
